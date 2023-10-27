@@ -9,3 +9,5 @@ This is my frist project started in march 2023, yet not finished.
 gamil: georgian3125anand@gmail.com
 Linkedln :https://linkedin.com/in/georgian3125anand
 
+
+<img width="1017" alt="Screenshot 2023-10-27 at 9 36 43 PM" src="https://github.com/Anand3125/e-commercewebsite/assets/124582976/366af777-b8ac-453c-b2b0-70c9da1e7593">
